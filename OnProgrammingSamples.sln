@@ -117,6 +117,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UML", "UML", "{CA05DE1D-B7E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DipSample", "DipSample\DipSample.csproj", "{AF9618F2-9262-42C7-816B-BC38C9E1263C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{3A959FD7-E80E-4DA4-8B55-1E99A1E9F952}"
+	ProjectSection(SolutionItems) = preProject
+		编程实践.docx = 编程实践.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
